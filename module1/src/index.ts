@@ -1,0 +1,1 @@
+let course:string ="Next level"
